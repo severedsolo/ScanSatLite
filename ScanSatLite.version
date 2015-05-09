@@ -1,5 +1,5 @@
 {
-    "NAME":"Contract Pack: Kerbal Space Station",
+    "NAME":"Contract Pack: SCANSat Lite",
     "URL": "https://github.com/severedsolo/ScanSatLite/blob/master/ScanSatLite.version",
 	"DOWNLOAD":"https://github.com/severedsolo/ScanSatLite/releases",
     "GITHUB":
@@ -12,7 +12,7 @@
     {
         "MAJOR":1,
         "MINOR":0,
-        "PATCH":0,
+        "PATCH":1,
         "BUILD":0
     },
     "KSP_VERSION":
