@@ -4,7 +4,7 @@ A contract pack for [Kerbal Space Program][ksp] integrating [ScanSat][scansat].
 
 ([forum thread][forums])
 
-[forums]:  http://forum.kerbalspaceprogram.com/threads/120127-1-0-2-Contract-Pack-ScanSat-Lite-1-1-%2818-05-15%29
+[forums]:  http://forum.kerbalspaceprogram.com/threads/120127
 [ksp]:     http://kerbalspaceprogram.com
 [scansat]: http://forum.kerbalspaceprogram.com/threads/80369
 
@@ -12,9 +12,11 @@ A contract pack for [Kerbal Space Program][ksp] integrating [ScanSat][scansat].
 
 - KSP 1.02
 - ScanSat 12.0 ([forums][scansat], [github](https://github.com/S-C-A-N/SCANsat/releases))
-- ContractConfigurator ≥1.1.0 ([forums][cc], [github](https://github.com/jrossignol/ContractConfigurator/releases))
+- Contract Configurator ≥1.1.0 ([forums][cc], [github](https://github.com/jrossignol/ContractConfigurator/releases))
+- Module Manager ≥2.6.1 ([forums][mm], [github](https://github.com/sarbian/ModuleManager))
 
 [cc]:  http://forum.kerbalspaceprogram.com/threads/101604
+[mm]:  http://forum.kerbalspaceprogram.com/threads/55219
 
 ### Disclaimer
 
@@ -23,7 +25,7 @@ If you opt-in, it will use the internet to check whether there is a new version 
 Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
 
-A MiniAVC binary, which is governed by the GPLv3 license, is bundled with this contract pack.
+A MiniAVC binary, which is governed by the GNU GPL v3.0 license, is bundled with this contract pack.
 The source code for this MiniAVC version (1.0.3.0) is located [here][miniavc] with the corresponding license being found [here][miniavc-license].
 A local version of the same license can be found [here][miniavc-local].
 
