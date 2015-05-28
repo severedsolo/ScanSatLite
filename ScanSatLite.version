@@ -1,36 +1,35 @@
 {
-    "NAME":"Contract Pack: SCANSat Lite",
-    "URL": "https://github.com/severedsolo/ScanSatLite/blob/master/ScanSatLite.version",
-	"DOWNLOAD":"https://github.com/severedsolo/ScanSatLite/releases",
-    "GITHUB":
+    "NAME"     : "Contract Pack: SCANSat Lite",
+    "URL"      : "https://github.com/severedsolo/ScanSatLite/blob/master/ScanSatLite.version",
+    "DOWNLOAD" : "https://github.com/severedsolo/ScanSatLite/releases",
+    "GITHUB" :
     {
-        "USERNAME":severedsolo,
-        "REPOSITORY":ScanSatLite
-        "ALLOW_PRE_RELEASE":false,
+        "USERNAME" : "severedsolo",
+        "REPOSITORY" : "ScanSatLite"
     },
-    "VERSION":
+    "VERSION" :
     {
-        "MAJOR":1,
-        "MINOR":1,
-        "PATCH":0,
-        "BUILD":0
+        "MAJOR" : 1,
+        "MINOR" : 1,
+        "PATCH" : 0,
+        "BUILD" : 0
     },
-    "KSP_VERSION":
+    "KSP_VERSION" :
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":2
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
     },
-    "KSP_VERSION_MIN":
+    "KSP_VERSION_MIN" :
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":2
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
     },
-    "KSP_VERSION_MAX":
+    "KSP_VERSION_MAX" :
     {
-        "MAJOR":1,
-        "MINOR":0,
-        "PATCH":2
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
     }
 }
